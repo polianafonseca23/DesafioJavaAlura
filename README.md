@@ -46,13 +46,13 @@ Crie um novo projeto Java e adicione o arquivo Desafio.java.
 
 Compile e execute o código:
 
-✨ Autor
-
-👩‍💻 Poliana Fonseca
-Desenvolvido como parte dos estudos de Back-End com Java.
-
 Estrutura de repetição while
 
 Uso da classe Scanner para leitura de dados do usuário
 
 Text Blocks (""") para formatar o menu de forma legível (recurso disponível a partir do Java 15)
+
+✨ Autor
+
+👩‍💻 Poliana Fonseca
+Desenvolvido como parte dos estudos de Back-End com Java.
